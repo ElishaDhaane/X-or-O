@@ -7,11 +7,11 @@
     font-size: 13px;
     text-align: center;
     list-style-type: none;
-    color: skyblue;
+    color: rgb(236, 242, 64);
     height: 60px;
     background-size: contain;
     background-color: rgb(12, 15, 45);
-    border-bottom: 1px solid #235990;
+    border-bottom: 1px solid #f6fe05;
     position: relative;
   }
   .global-nav ul {
@@ -49,10 +49,10 @@
     justify-content: center;
     align-items: center;
     cursor: pointer;
-    border-color: #FF770F;
+    border-color: black;
   }
   .box:hover {
-    background-color: #FED8B1;
+    background-color:rgb(233, 252, 229);
   }
   .borderRight0 {
     border-right: 0;
@@ -73,23 +73,23 @@
     font-size: 1.1rem;
     font-family: "Varela Round", sans-serif;
     /* border: 3px solid rgb(168, 160, 242); */
-    color: rgb(23, 26, 57);
-    background-color: rgb(168, 160, 242);
+    color: rgb(3, 3, 3);
+    background-color: rgb(227, 234, 20);
     border-radius: 10px;
     cursor: pointer;
     font-weight: bold;
   }
   #reset:hover {
-    color: rgb(99, 94, 152);
-    border: 3px solid rgb(85, 80, 137);
+    color: rgb(154, 227, 180);
+    border: 3px solid rgb(227, 234, 20);
   }
   .info {
     font-family: "Varela Round", sans-serif;
     font-size: 1.5rem;
-    color: lavender;
+    color: rgb(191, 206, 80);
     font-weight: bold;
     padding: 3px 13px;
-    background-color: rgb(112, 70, 112);
+    background-color: rgb(221, 228, );
     text-align: center;
     width: 150px;
     float: left;
@@ -122,14 +122,14 @@
     font-size: 1.1rem;
     font-family: "Varela Round", sans-serif;
     color: rgb(23, 26, 57);
-    background-color: rgb(168, 160, 242);
+    background-color: rgb(221, 228, 0);
     border-radius: 10px;
     cursor: pointer;
     font-weight: bold;
   }
   
   .light-mode {
-    background-color: #E0FFFF;
+    background-color: #fbffce;
   }
   .light-mode span.boxtext {
     color: black;
